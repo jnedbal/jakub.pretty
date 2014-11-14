@@ -16,7 +16,7 @@
   (pad 3 thru_hole circle (at 0 0) (size 1.45 1.45) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 2 0) (size 1.45 1.45) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 4 0) (size 1.45 1.45) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
-  (model models/microblade/53014-0510.wrl
+  (model jakub/connectors/microblade/53014-0510.wrl
     (at (xyz -0.21422 -0.105 -0.12))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
