@@ -17,8 +17,8 @@
   (pad 1 thru_hole rect (at -3.81 0) (size 1.651 1.651) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 3.81 0) (size 1.651 1.651) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (model discret/c_horiz_c1v7.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (at (xyz 0 0 0.07000000000000001))
+    (scale (xyz 3.2 3.6 3.2))
     (rotate (xyz 0 0 0))
   )
 )

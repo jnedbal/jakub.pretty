@@ -30,7 +30,7 @@
   (fp_line (start -3.8 -3.8) (end 3.8 -3.8) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole oval (at -1.905 0) (size 1.9812 3.9624) (drill 1.3208) (layers *.Cu F.Paste F.SilkS F.Mask))
   (pad 2 thru_hole oval (at 1.905 0) (size 1.9812 3.9624) (drill 1.3208) (layers *.Cu F.Paste F.SilkS F.Mask))
-  (model models/CTB0308/CTB0308_2.wrl
+  (model jakub/connectors/CTB0308/CTB0308_2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

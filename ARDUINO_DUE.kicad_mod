@@ -116,7 +116,7 @@
   (pad GND6 thru_hole circle (at 66.167 -25.4 90) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad IOR thru_hole oval (at 30.48 -2.54 90) (size 2.54 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad NC thru_hole oval (at 27.94 -2.54 90) (size 2.54 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model models/ArduinoDUE/ArduinoDUE.wrl
+  (model jakub/embedded_systems/ArduinoDUE/ArduinoDUE.wrl
     (at (xyz -0.09 0 -0.5748))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
