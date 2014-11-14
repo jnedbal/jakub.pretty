@@ -14,7 +14,7 @@ To use these modules, do the following:
         (name jakub)
         (type Github)
         (uri https://github.com/jnedbal/jakub.pretty)
-        (options "")
+        (options "allow_pretty_writing_to_this_dir=/home/jakub/KiCAD/jakub.pretty")
         (descr "Assorted modules made by Jakub Nedbal.")
       )
     )
