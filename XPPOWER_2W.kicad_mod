@@ -16,7 +16,7 @@
   (pad 7 thru_hole circle (at 7.62 3.81) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at 7.62 -3.81) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at -7.62 -3.81) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model models/XPpower/XPpower2W.wrl
+  (model jakub.3dshapes/XPpower/XPpower2W.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

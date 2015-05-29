@@ -16,7 +16,7 @@
   (fp_arc (start 3.4561 -3.4609) (end 3.4561 -4.0959) (angle 90) (layer F.SilkS) (width 0.3))
   (pad 1 smd rect (at -3.6195 0) (size 2.413 5.334) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.6195 0) (size 2.413 5.334) (layers F.Cu F.Paste F.Mask))
-  (model models/coil.wrl
+  (model jakub.3dshapes/coil/coil.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.29491 0.31267 0.29528))
     (rotate (xyz 0 0 0))

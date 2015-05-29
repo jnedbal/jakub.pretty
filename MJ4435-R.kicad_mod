@@ -30,7 +30,7 @@
   (pad 1 smd rect (at -3.2 3.325) (size 2 2.85) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 3.325) (size 2 2.85) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.5 3.325) (size 2 2.85) (layers F.Cu F.Paste F.Mask))
-  (model jakub/connectors/3.5mmJack/SMDstereo3-5mmJack.wrl
+  (model jakub.3dshapes/connectors/3.5mmJack/SMDstereo3-5mmJack.wrl
     (at (xyz -0.2 0 0.113))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 270 0 90))
