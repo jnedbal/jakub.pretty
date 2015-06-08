@@ -36,9 +36,9 @@
   (pad 2 thru_hole circle (at -2.70002 -2.70002) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at -2.70002 2.70002) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 2.70002 2.70002) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model jakub.3dshapes/connectors/SMA/SMA_EDGE.wrl
+  (model jakub.3dshapes/connectors/SMA/sma.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 -90))
   )
 )
