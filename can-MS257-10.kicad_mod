@@ -15,4 +15,9 @@
   (fp_line (start -9.85 12.7) (end 9.85 12.7) (layer F.SilkS) (width 1))
   (pad 1 thru_hole oval (at -12.7 -6.3) (size 1.5 2.5) (drill oval 0.7 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 12.7 6.3) (size 1.5 2.5) (drill oval 0.7 1.7) (layers *.Cu *.Mask F.SilkS))
+  (model jakub.3dshapes/enclosures/shielding_cans/ms257-10bottom.wrl
+    (at (xyz -0.51 0.51 -0.025))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 270 0 0))
+  )
 )
