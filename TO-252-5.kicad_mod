@@ -26,9 +26,9 @@
   (pad 5 smd rect (at 2.54 0) (size 0.8 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.27 0) (size 0.8 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.27 0) (size 0.8 2.5) (layers F.Cu F.Paste F.Mask))
-  (model TO_SOT_Packages_SMD.3dshapes/TO-252-2Lead.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+  (model jakub.3dshapes/TO/TO-252-5.wrl
+    (at (xyz 0 0.2 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
