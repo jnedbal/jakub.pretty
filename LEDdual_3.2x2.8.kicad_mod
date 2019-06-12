@@ -1,4 +1,4 @@
-(module LEDdual_3.2x2.8 (layer F.Cu) (tedit 5ACBD8FA)
+(module LEDdual_3.2x2.8 (layer F.Cu) (tedit 5D017FCC)
   (descr "RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN")
   (tags "LED 3227")
   (attr smd)
@@ -28,6 +28,11 @@
   (pad 1 smd rect (at 1.55 -0.85 180) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.55 0.85 180) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
   (model LEDs.3dshapes/LED_WS2812B-PLCC4.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.25 0.25 0.4))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/jakub.3dshapes/LED/LED_WS2812B-PLCC4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.25 0.25 0.4))
     (rotate (xyz 0 0 0))
